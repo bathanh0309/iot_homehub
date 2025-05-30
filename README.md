@@ -1,4 +1,3 @@
-# intern at DUT
 
 ## Introduction
 - Our products provide a solid and comprehensive foundation of expertise in the field of electronics and programming
