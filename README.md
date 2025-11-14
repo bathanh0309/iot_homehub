@@ -1,18 +1,10 @@
+Nghiên cứu thiết kế mạch nhà kính
 
-## Introduction
-- Our products provide a solid and comprehensive foundation of expertise in the field of electronics and programming
-- We are proud to fully meet the design requirements for the "motor and sensor control circuit for greenhouses"
-- The product includes three main parts: power part, sensor part, motor part
-- Each layer is calculated in detail, taking on separate functions, contributing to creating a complete and effective product.
-## How the System Works
-### System Overview:
-- My goal is to learn more about BJT, MOSFET, IGBT circuits, as well as temperature and light sensors.
-- This will not only help me improve my logical thinking ability but also expand my knowledge about power efficiency, power, bandwidth gain and signal amplitude.
-- This knowledge will be a solid foundation for me to develop, research and design hardware in the future, thereby improving my professional level.
+Thành viên: Nguyễn Bá Thành, Nguyễn Viết Sơn, Vũ Tuyên Hoàng
 
-## Quick View of the Project
+Kết quả: Mạch hoạt động tốt
 
-**Circuit simulation AC&DC on Proteus software**
+Nhược: Chưa gộp 3 mạch vào chung, chỉ mới đo và chạy riêng lẻ
 ![image](Media/1.jpg)
 
 **Circuit simulation sensor on Proteus software**
